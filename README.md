@@ -27,7 +27,7 @@ cd Musical-Sub-Genre-Classificator-NET
 sudo python3 setup.py install
 ```
 
-This will create a *build*, a *dist* and a *stylecheckerm.egg-info* directory in the MapreducePyConsole folder.
+This will create a *build*, a *dist* and a *stylecheckerm.egg-info* directory in the folder.
 
 ## Usage
 
